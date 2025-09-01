@@ -2,7 +2,7 @@
   "name": "com.actioncode.[packagename]",
   "displayName": "ActionCode-[PackageName]",
   "version": "0.1.0",
-  "unity": "2022.3",
+  "unity": "6000.1",
   "description": "This package contains [...].",
   "keywords": [
     "",
