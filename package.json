@@ -16,7 +16,7 @@
     "url": "https://github.com/HyagoOliveira/[PACKAGE].git"
   },
   "documentationUrl": "https://github.com/HyagoOliveira/[PACKAGE]#readme",
-  "changelogUrl": "https://github.com/HyagoOliveira/[PACKAGE]/CHANGELOG.md",
+  "changelogUrl": "https://github.com/HyagoOliveira/[PACKAGE]/blob/main/CHANGELOG.md",
   "author": {
     "name": "Hyago Oliveira",
     "email": "hyagogow@gmail.com"
