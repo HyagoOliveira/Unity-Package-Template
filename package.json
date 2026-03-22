@@ -1,8 +1,8 @@
 {
-  "name": "com.actioncode.[packagename]",
-  "displayName": "ActionCode-[PackageName]",
+  "name": "com.actioncode.[package-name]",
+  "displayName": "ActionCode-[Package Name]",
   "version": "0.1.0",
-  "unity": "6000.1",
+  "unity": "6000.3",
   "description": "This package contains [...].",
   "keywords": [
     "",
@@ -10,13 +10,13 @@
   ],
   "dependencies": {},
   "license": "MIT",
-  "homepage": "https://github.com/HyagoOliveira/[PACKAGE]#README",
+  "homepage": "https://github.com/HyagoOliveira/[PackageName]#README",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HyagoOliveira/[PACKAGE].git"
+    "url": "https://github.com/HyagoOliveira/[PackageName].git"
   },
-  "documentationUrl": "https://github.com/HyagoOliveira/[PACKAGE]#README",
-  "changelogUrl": "https://github.com/HyagoOliveira/[PACKAGE]/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/HyagoOliveira/[PackageName]#README",
+  "changelogUrl": "https://github.com/HyagoOliveira/[PackageName]/blob/main/CHANGELOG.md",
   "author": {
     "name": "Hyago Oliveira",
     "email": "hyagogow@gmail.com"
